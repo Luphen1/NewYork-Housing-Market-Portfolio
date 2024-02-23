@@ -30,7 +30,7 @@ The  dataset contains prices of New York houses, providing valuable insights int
 
 
 ### Data Sources
-The primary dataset used for the analysis is the https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market having the  following headers below;
+The primary dataset used for the analysis is the [https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market] (https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market) having the  following headers below;
 
 BROKERTITLE: Title of the broker
 
