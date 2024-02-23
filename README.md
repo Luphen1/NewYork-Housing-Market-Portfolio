@@ -26,7 +26,7 @@ guy# NewYork-Housing-Market-Portfolio
 The  dataset contains prices of New York houses, providing valuable insights into the real estate market in the region. It includes information such as broker titles, house types, prices, number of bedrooms and bathrooms, property square footage, addresses, state, administrative and local areas, street names, and geographical coordinates.
 
 ### Data Sources
-The primary dataset used for the analysis is the https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market having the  
+The primary dataset used for the analysis is the https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market having the  following headers below;
 
 BROKERTITLE: Title of the broker
 
