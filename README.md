@@ -67,5 +67,7 @@ LATITUDE: Latitude coordinate of the house
 LONGITUDE: Longitude coordinate of the house
 
 ### Tools
-- Excel - For importing and inspecting the dataset,then check if there are missing values and duplicates records
+- Excel - For importing and inspecting the dataset,then check if there are missing values and duplicate records
+[https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market](https)
 - Power Bi - Creating Report
+  
