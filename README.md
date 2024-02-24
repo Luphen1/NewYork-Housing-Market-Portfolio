@@ -94,6 +94,6 @@ EDA involved exploring  NewYork housing market dataset to answer some questions 
 3. Townhouse for sale has 4421.05 average property saquare footage by type of house with three bathroom and bedroom
 4. House for sales has 41.39% sum of price by type of house 
 5. House for sale has total price of 2.9billion by type of house,having three bathroom and bedroom
-6. NewYork has 2.2million maximum price and maximum property square footage of 33000, having three bathroom and bedroom
-7. NewYork,NY 1309 has maximum price of 2.2m and property square footage of 33000 in staten island,NY 1304
+6. NewYork has 2.2million maximum price and maximum property square footage of 33000 by sublocality, having three bathroom and bedroom
+7. NewYork,NY 1309 has maximum price of 2.2m and property square footage of 33000 in staten island,NY 1304 by state, having three bathroom and bedroom
 8. Multi_family for sale has 37.10% GT by sum of property square footage by type of house
