@@ -84,9 +84,13 @@ In the initial data preparation, i performed the following task;
 EDA involved exploring  NewYork housing market dataset to answer some questions such as;
 
 1. Average price by type of house
-2. 
-
-
+2. Maximum price and property square footage by sublocality
+3. Average property square footage by type
+4. %GT sum of price by type of house
+5. Total price by type of house
+6. Maximum price and property square footage by locality
+7. Maximum price and property square footage by state
+8. %GT sum of property square footage by type of house
 
 ### Findings
 1. House for sale has average price of 10.2million by type of house with three bathroom and bedroom
