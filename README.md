@@ -69,7 +69,7 @@ LONGITUDE: Longitude coordinate of the house
 ### Tools
 - Excel - For importing and inspecting the dataset,then check if there are missing values and duplicate records
 [https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market](https)
-- Power Bi - Creating Report
+- Power Bi - Creating interactive dashboard report
 
 ### Data Cleaning/Preparation
 In the initial data preparation, i performed the following task;
