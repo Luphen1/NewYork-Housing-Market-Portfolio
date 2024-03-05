@@ -1,4 +1,4 @@
-guy# NewYork-Housing-Market-Portfolio
+![Screenshot (32)](https://github.com/Luphen1/NewYork-Housing-Market-Portfolio/assets/140397207/eaa95f5d-0011-4611-93a1-e5f70def8cb8)guy# NewYork-Housing-Market-Portfolio
 
 #### Table Of Contents
 ------------
@@ -27,9 +27,11 @@ The  dataset contains prices of New York houses, providing valuable insights int
 
 
 ![Screenshot (24)](https://github.com/Luphen1/NewYork-Housing-Market-Portfolio/assets/140397207/4e521df7-2e1d-4d86-b643-39b38fe916eb)
+![Screenshots100](https://github.com/Luphen1/NewYork-Housing-Market-Portfolio/assets/140397207/aba17a83-18d3-4784-b73a-3acd15f01222)
 
 
-### Data Source
+### Data
+ Source
 The primary dataset used for the analysis is the (https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market) having the  following headers below;
 
 BROKERTITLE: Title of the broker
