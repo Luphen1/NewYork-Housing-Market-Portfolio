@@ -32,7 +32,7 @@ The  dataset contains prices of New York houses, providing valuable insights int
 
 ### Data
  Source
-The primary dataset used for the analysis is the (https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market) having the  following headers below;
+The primary dataset used for the analysis is the (https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market) having the  following headers below:
 
 BROKERTITLE: Title of the broker
 
@@ -74,32 +74,47 @@ LONGITUDE: Longitude coordinate of the house
 - Power Bi - Creating interactive dashboard report
 
 ### Data Cleaning/Preparation
-In the initial data preparation, i performed the following task;
-1. Data loading and inspection
-2. Handling for missing values
-3. Checking for duplicate values
-4. Convert each headers to the right data type
-5. Outlier Detection and Handling
-6. Handling Inconsistent Data and Typos
+In the initial data preparation, i performed the following task:
+1. Data loading and inspection.
+2. Handling for missing values.
+3. Checking for duplicate values.
+4. Convert each headers to the right data type.
+5. Outlier Detection and Handling.
+6. Handling Inconsistent Data and Typos.
 
 ### Exploration Data Analysis
-EDA involved exploring  NewYork housing market dataset to answer some questions such as;
+EDA involved exploring  NewYork housing market dataset to answer some questions such as:
 
-1. Average price by type of house
-2. Maximum price and property square footage by sublocality
-3. Average property square footage by type
-4. %GT sum of price by type of house
-5. Total price by type of house
-6. Maximum price and property square footage by locality
-7. Maximum price and property square footage by state
-8. %GT sum of property square footage by type of house
+1. What are the average price by type of house?
+2. Find the Maximum price and property square footage by sublocality.
+3. What is the average property square footage by type?
+4. What is the percentage by type of house?
+5. What is the total price by type of house?
+6. What is the Maximum price and property square footage by locality?
+7.What is the  Maximum price and property square footage by state?
+8. What is the  property square footage by type of house?
 
 ### Findings
-1. House for sale has average price of 10.2million by type of house with three bathroom and bedroom
-2. Richmond county has 2.1million maximum price and property square footage of 33000 by sublocality with three bathroom amd bedroom
-3. Townhouse for sale has 4421.05 average property saquare footage by type of house with three bathroom and bedroom
-4. House for sales has 41.39% sum of price by type of house 
-5. House for sale has total price of 2.9billion by type of house,having three bathroom and bedroom
-6. NewYork has 2.2million maximum price and maximum property square footage of 33000 by sublocality, having three bathroom and bedroom
-7. NewYork,NY 1309 has maximum price of 2.2m and property square footage of 33000 in staten island,NY 1304 by state, having three bathroom and bedroom
-8. Multi_family for sale has 37.10% GT by sum of property square footage by type of house
+1.	House for sale has an average price of 10.2 million by type of house with three bathrooms and bedrooms.
+2.	Richmond County has a maximum price of 2.1 million and property square footage of 33,000 by sublocality with three bathrooms and bedrooms.
+3.	Townhouse for sale has an average property square footage of 4,421.05 by type of house with three bathrooms and bedrooms.
+4.	House for sale has 41.39% as the sum of prices by type of house.
+5.	House for sale has a total price of 2.9 billion by type of house, having three bathrooms and bedrooms.
+6.	New York has a maximum price of 2.2 million and maximum property square footage of 33,000 by sublocality, having three bathrooms and bedrooms.
+7.	New York, NY 1309 has a maximum price of 2.2 million and property square footage of 33,000 in Staten Island, NY 1304 by state, having three bathrooms and bedrooms.
+8.	Multifamily for sale has 37.10% GT by the sum of property square footage by type of house.
+
+
+### Recommendations
+
+1. Refine Pricing Strategy: Utilize market analysis to fine-tune pricing strategies for each property type, ensuring competitiveness and profitability.
+
+2. Expand Offerings Strategically: Diversify the portfolio beyond houses by strategically adding properties such as townhouses, considering market demand and profitability potential.
+
+3. Target High-Potential Markets: Focus on entering or expanding in areas with high potential, leveraging insights from locations like Richmond County and New York City.
+
+4. Data-Driven Decision-Making: Utilize robust data analytics to continuously monitor market trends, property performance, and customer preferences, informing strategic decisions.
+
+5. Tailored Marketing Approach: Segment customers based on preferences and behavior, implementing personalized marketing campaigns to effectively target and engage diverse customer segments.
+
+6. Foster Strategic Partnerships: Collaborate with industry stakeholders, including developers and brokers, to access expertise, resources, and opportunities, driving innovation and market expansion.
