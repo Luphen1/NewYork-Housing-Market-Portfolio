@@ -22,8 +22,7 @@
 
 
 ### Project Overview
-
-The  dataset contains prices of New York houses, providing valuable insights into the real estate market in the region. It includes 4802 dataset information such as broker titles, house types, prices, number of bedrooms and bathrooms, property square footage, addresses, state, administrative and local areas, street names, and geographical coordinates.
+The dataset contains prices of New York houses, providing valuable insights into the real estate market in the region. It includes 4802 dataset information such as broker titles, house types, prices, number of bedrooms and bathrooms, property square footage, addresses, state, administrative and local areas, street names, and geographical coordinates.
 
 
 ![Screenshot (24)](https://github.com/Luphen1/NewYork-Housing-Market-Portfolio/assets/140397207/4e521df7-2e1d-4d86-b643-39b38fe916eb)
@@ -32,7 +31,7 @@ The  dataset contains prices of New York houses, providing valuable insights int
 
 ### Data
  Source
-The primary dataset used for the analysis is the (https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market) having the  following headers below:
+The primary dataset used for the analysis was the (https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market) having the  following headers below:
 
 BROKERTITLE: Title of the broker
 
@@ -69,7 +68,7 @@ LATITUDE: Latitude coordinate of the house
 LONGITUDE: Longitude coordinate of the house
 
 ### Tools
-- Excel - For importing and inspecting the dataset,then check if there are missing values and duplicate records
+- Excel - For importing and inspecting the dataset,then check for missing values and duplicate records
 [https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market](https)
 - Power Bi - Creating interactive dashboard report
 
@@ -87,12 +86,12 @@ EDA involved exploring  NewYork housing market dataset to answer some questions 
 
 1. What are the average price by type of house?
 2. Find the Maximum price and property square footage by sublocality.
-3. What is the average property square footage by type?
-4. What is the percentage by type of house?
-5. What is the total price by type of house?
-6. What is the Maximum price and property square footage by locality?
-7.What is the  Maximum price and property square footage by state?
-8. What is the  property square footage by type of house?
+3. What was the average property square footage by type?
+4. What was the percentage by type of house?
+5. What was the total price by type of house?
+6. What was the Maximum price and property square footage by locality?
+7. What was the  Maximum price and property square footage by state?
+8. What was the property square footage by type of house?
 
 ### Findings
 1.	House for sale has an average price of 10.2 million by type of house with three bathrooms and bedrooms.
