@@ -68,7 +68,8 @@ LATITUDE: Latitude coordinate of the house
 LONGITUDE: Longitude coordinate of the house
 
 ### Tools
-- Excel - For importing and inspecting the dataset,then check for missing values and duplicate records
+- Excel - For importing and inspecting the dataset, then check for missing values and duplicate records
+  to enhanced data integrity
 [https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market](https)
 - Power Bi - Creating interactive dashboard report
 
@@ -77,14 +78,14 @@ In the initial data preparation, i performed the following task:
 1. Data loading and inspection.
 2. Handling for missing values.
 3. Checking for duplicate values.
-4. Convert each headers to the right data type.
+4. Convert each header to the right data type.
 5. Outlier Detection and Handling.
 6. Handling Inconsistent Data and Typos.
 
 ### Exploration Data Analysis
-EDA involved exploring  NewYork housing market dataset to answer some questions such as:
+EDA involved exploring  New York housing market dataset to answer some questions such as:
 
-1. What are the average price by type of house?
+1. What was the average price by type of house?
 2. Find the Maximum price and property square footage by sublocality.
 3. What was the average property square footage by type?
 4. What was the percentage by type of house?
